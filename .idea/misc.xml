@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp_Corei7/AndroidStudioProjects/A2Calculadora/app/src/main/res/layout/activity_dividir.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp_Corei7/AndroidStudioProjects/A2Calculadora/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp_Corei7/AndroidStudioProjects/A2Calculadora/app/src/main/res/layout/activity_multiplicar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp_Corei7/AndroidStudioProjects/A2Calculadora/app/src/main/res/layout/activity_porciento.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp_Corei7/AndroidStudioProjects/A2Calculadora/app/src/main/res/layout/activity_restar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp_Corei7/AndroidStudioProjects/A2Calculadora/app/src/main/res/layout/activity_resto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp_Corei7/AndroidStudioProjects/A2Calculadora/app/src/main/res/layout/activity_sumar.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/activity_dividir.xml" value="0.23333333333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_multiplicar.xml" value="0.23333333333333334" />
+        <entry key="app/src/main/res/layout/activity_porciento.xml" value="0.23333333333333334" />
+        <entry key="app/src/main/res/layout/activity_restar.xml" value="0.23333333333333334" />
+        <entry key="app/src/main/res/layout/activity_resto.xml" value="0.23333333333333334" />
+        <entry key="app/src/main/res/layout/activity_suma.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_sumar.xml" value="0.23333333333333334" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.14175724637681159" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
